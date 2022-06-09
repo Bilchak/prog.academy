@@ -1,0 +1,27 @@
+body {
+    padding:0px;
+    margin:0px;
+}
+
+.main {
+    padding-top:75px;
+    padding-bottom:195px;
+    margin:0px auto;
+    max-width: 815px;
+}
+
+p {
+    width:625px;
+    text-align: justify;
+    margin:0px auto;
+}
+
+h2 {
+    margin-left:95px;
+}
+
+a:link,:visited,:hover {
+    color:black;
+}
+
+
